@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OrderAgnostics",
+            "request": "launch",
+            "mainClass": "OrderAgnostics",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode1672",
+            "request": "launch",
+            "mainClass": "LeetCode1672",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode1295",
+            "request": "launch",
+            "mainClass": "LeetCode1295",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch2DArray",
+            "request": "launch",
+            "mainClass": "LinearSearch2DArray",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "String_LinearSearch",
+            "request": "launch",
+            "mainClass": "String_LinearSearch",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "Strings_LinearSearch",
+            "request": "launch",
+            "mainClass": "Strings_LinearSearch",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "Arr",
+            "request": "launch",
+            "mainClass": "Arr",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "PassingValues",
+            "request": "launch",
+            "mainClass": "PassingValues",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "Scoping",
+            "request": "launch",
+            "mainClass": "Scoping",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        },
+        {
+            "type": "java",
+            "name": "VarArgs",
+            "request": "launch",
+            "mainClass": "VarArgs",
+            "projectName": "Kunal_Kushwaha_10302b53"
+        }
+    ]
+}
